@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am a student in data inteligent and cibersecurity in second semester in Universidad Pánamericana (Mexico City)
 
 <!--
 **danielhtoledo2002/danielhtoledo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
