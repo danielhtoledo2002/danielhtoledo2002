@@ -1,4 +1,4 @@
-### I am a student in data inteligent and cibersecurity in second semester in Universidad Pánamericana
+### I am a student in data inteligent and cibersecurity in third semester in Universidad Pánamericana
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielhtoledo2002&layout=compact&theme=dark)](https://github.com/danielhtoledo2002/github-readme-stats)
 
