@@ -26,8 +26,8 @@
   * structures
   
 ### Most experienced in:
-  * Rust
   * C++
+  * Rust
   * Excel
   * Python
   * C#
