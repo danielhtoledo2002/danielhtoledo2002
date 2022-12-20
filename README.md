@@ -25,7 +25,7 @@
   * Computers
   * structures
   
-### Most experienced in:
+### Languajes that I use:
   * C++
   * Rust
   * Excel
