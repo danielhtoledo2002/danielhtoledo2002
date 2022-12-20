@@ -23,6 +23,7 @@
   * Cybersecurity
   * Backend
   * Computers
+    * Hardware 
   * structures
   
 ### Languajes that I use:
