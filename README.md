@@ -38,4 +38,4 @@
 
 - **Twitter**: [@danielhtoledo](https://twitter.com/Danielht2002)
 - **Mail**: hernadeztoledodaniel@gmail.com
-- I am noob :D but learning
+- Bloq website is in progress
