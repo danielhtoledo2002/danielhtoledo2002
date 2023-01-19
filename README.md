@@ -37,5 +37,4 @@
 ### More information
 
 - **Twitter**: [@danielhtoledo](https://twitter.com/Danielht2002)
-- **Mail**: hernadeztoledodaniel@gmail.com
 - Bloq website is in progress
