@@ -24,7 +24,7 @@
   * Backend
   * Computers
     * Hardware 
-  * structures
+  * Data structures
   
 ### Languajes that I use:
   * C++
