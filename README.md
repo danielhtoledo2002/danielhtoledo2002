@@ -29,7 +29,7 @@
 ### Languajes that I use:
   * C++
   * Rust
-  * Excel
+  * Visual Basic 
   * Python
   * C#
 
