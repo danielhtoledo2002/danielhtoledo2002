@@ -1,4 +1,4 @@
-### Hello I am [Daniel](https://github.com/danielhtoledo2002) student at [Panamericana University](https://www.up.edu.mx/). 
+### Hello I am Daniel student at [Panamericana University](https://www.up.edu.mx/). 
 ### I am studying data intelligence and cibersecurity engineering.
 
 <div>
