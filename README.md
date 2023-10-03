@@ -20,6 +20,7 @@
 </div>
 
 ### Interested in:
+  * IA
   * Cybersecurity
   * Backend
   * Computers
